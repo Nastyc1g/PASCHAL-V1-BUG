@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://t.me/textpatron_bot"><img title="Author" src="https://img.shields.io/badge/PASCHAL-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/"><img title="Author" src="https://img.shields.io/badge/PASCHAL-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 
 
