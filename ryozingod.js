@@ -2286,7 +2286,9 @@ klik https://wa.me/${botNumber.split`@`[0]}`,
             proto.Message.fromObject({
               viewOnceMessage: {
                 message: {
-                  liveLocationMessage: {                                  🤍҈ ༑",
+                 liveLocationMessage: {
+                    degreesLatitude: "🖤⟩ ༘྅ᏃɛᏆֆʊɮᎾxᎽᎶɛℕ ☆ ꧏ🤍҈ ༑",
+                    degreesLongitude: "🖤⟩ ༘྅ᏃɛᏆֆʊɮᎾxᎽᎶɛℕ ☆ ꧏ🤍҈ ༑",
                     caption: `🖤⟩ ༘྅ᏃɛᏆֆʊɮᎾxᎽᎶɛℕ ☆ ꧏ🤍҈ ༑`,
                     sequenceNumber: "9",
                     jpegThumbnail: "",
