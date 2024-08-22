@@ -3,8 +3,8 @@
 Kalo Mau Recode Kasih Credit gw ›
 TheZetsubXygen / Ryo
 
-📝 > Created By paschal
-🖥️ > Base Ori By paschal
+📝 > Created By paschal 💚 
+🖥️ > Base Ori By paschal 💚 
                
 */
 const {
