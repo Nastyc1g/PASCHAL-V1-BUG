@@ -25,11 +25,11 @@ global.location = '1'; // Replace with your location panel
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
 global.owner = ['2347066575685'];
 global.ownMain = '2347066575685';
-global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
+global.NamaOwner = 'PASCHAL V1 𝚩𝐔𝐆'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
-global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
-global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
+global.namabot = 'PASCHAL V1 𝚩𝐔𝐆'; // Do not change
+global.author = 'PASCHAL V1 𝚩𝐔𝐆'; // Do not change
 global.packname = 'Paschal'; // Change if needed
 global.url = 'https://whatsapp.com/channel/0029VaYb7EyLNSZvA5A4iK2C'; // Do not change
 
